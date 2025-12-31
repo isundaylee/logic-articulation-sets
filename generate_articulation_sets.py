@@ -92,6 +92,17 @@ PATH_TO_ARTICULATION_MAPPING = {
         81: "Pizzicato",  # A5
         82: "Bartok Pizzicato",  # A#5
     },
+    "Spitfire - Chamber Strings Essentials.plist": {
+        0: "Legato",
+        1: "Long",
+        2: "Spiccato",
+        3: "Staccato",
+        4: "Pizzicato",
+        5: "Long Harmonics",
+        6: "Tremolo",
+        7: "Trill Minor 2nd",
+        8: "Trill Major 2nd",
+    }
 }
 
 
